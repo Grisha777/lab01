@@ -13,7 +13,7 @@
 ```bash
 $ export GITHUB_USERNAME=Grisha777
 $ export GIST_TOKEN=****************************************
-$ alias edit=nvim
+$ alias edit=subl
 ```
 
 ```sh
